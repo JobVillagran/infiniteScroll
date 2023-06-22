@@ -1,7 +1,5 @@
 ![alt text](https://i.ibb.co/8xp8Sjg/Screenshot-2023-06-21-at-10-22-28-PM.png)
 
-Certainly! Here's a README file for the "infiniteScroll" repository:
-
 ---
 
 # Infinite Scroll
